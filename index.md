@@ -11,7 +11,6 @@ This Privacy Policy explains how VideoPlayer ("we," "our," or "app") collects, u
 ### 1. Automatically Collected Information
 - Device Information: Operating system version, device model, and system configuration
 - Network Status: Basic network connectivity status
-- App Performance Data: App functionality and performance metrics
 
 ### 2. Advertisement Data (through Google AdMob)
 Our app uses Google AdMob for advertising. Through AdMob, the following data may be collected:
