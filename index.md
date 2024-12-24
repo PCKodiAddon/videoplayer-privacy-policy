@@ -1,6 +1,6 @@
 # Privacy Policy for VideoPlayer
 
-Last updated: [Current Date]
+Last updated: [12/24/2024]
 
 ## Introduction
 
